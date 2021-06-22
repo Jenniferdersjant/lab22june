@@ -1,7 +1,7 @@
 
 
 ### Business question: 
-_"Are the rental prices of films are higher for categories that are more popular?"_
+_"Are rental prices of films higher for categories that are more popular?"_
 
 **Data:**
 In order to answer this question, the database 'Sakilla' is used.
